@@ -17,7 +17,7 @@
 mono_crash.*
 
 # Build results
-[Dd]ebug/
+#[Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
@@ -27,11 +27,24 @@ x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
-[Bb]in/
+#[Bb]in/
 [Oo]bj/
 [Oo]ut/
 [Ll]og/
 [Ll]ogs/
+Bin/Debug/net8.0/cs/
+Bin/Debug/net8.0/de/
+Bin/Debug/net8.0/es/
+Bin/Debug/net8.0/fr/
+Bin/Debug/net8.0/it/
+Bin/Debug/net8.0/ja/
+Bin/Debug/net8.0/ko/
+Bin/Debug/net8.0/pl/
+Bin/Debug/net8.0/pt-BR/
+Bin/Debug/net8.0/ru/
+Bin/Debug/net8.0/tr/
+Bin/Debug/net8.0/zh-Hans/
+Bin/Debug/net8.0/zh-Hant/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
